@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "clone": "^2.1.2",
-    "json-server": "^0.16.0",
+    "json-server": "^0.16.2",
     "marked": "^0.8.0"
   },
   "devDependencies": {
@@ -36,7 +36,7 @@
     "pupa": "^2.0.1",
     "rosie": "~2.0.1",
     "showdown": "^1.9.1",
-    "supertest": "^4.0.2",
+    "supertest": "^6.2.0",
     "tape": "^4.13.0",
     "underscore": "~1.9.2"
   },
